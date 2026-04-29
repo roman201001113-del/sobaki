@@ -1,0 +1,12 @@
+{
+  "name": "e2-server-monitor",
+  "version": "1.0.0",
+  "description": "E2 chip server monitor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
